@@ -4,8 +4,7 @@ CLASSES = {
   2: 'teachers'
 };
 
-const MODEL_PATH =
-    'model.json';
+const MODEL_PATH = 'model.json';
 
 const IMAGE_SIZE = 293;
 const TOPK_PREDICTIONS = 3;
